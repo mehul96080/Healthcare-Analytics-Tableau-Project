@@ -14,6 +14,7 @@ Dashboard Creation:
 Dashboard 1:
 Include an image related to healthcare.
 Use a Text object to provide a meaningful title based on data analysis.
+
 Dashboard 2:
 View 1: Display diabetic vs. non-diabetic patients using Shapes, with a calculated field to classify patients and show percent distribution. Tooltip should show patient count.
 View 2: Summarize patients by Blood Pressure category using shapes, showing patient count and BP category, with color differentiation for diabetic vs. non-diabetic patients.

@@ -16,10 +16,15 @@ Include an image related to healthcare.
 Use a Text object to provide a meaningful title based on data analysis.
 
 Dashboard 2:
+
 View 1: Display diabetic vs. non-diabetic patients using Shapes, with a calculated field to classify patients and show percent distribution. Tooltip should show patient count.
+
 View 2: Summarize patients by Blood Pressure category using shapes, showing patient count and BP category, with color differentiation for diabetic vs. non-diabetic patients.
+
 View 3: Create a Histogram of BMI by Age Groups with bins of size 5, displaying average BMI values with a color palette.
+
 View 4: Display a single Bar Chart showing the percent distribution of patients by BMI type (Underweight, Healthy Weight, Overweight, Obese).
+
 Story Creation:
 
 Name the Story: "Healthcare."
